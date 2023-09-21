@@ -1,0 +1,13 @@
+# .DS_Store dosyalarını yoksay
+.DS_Store
+
+# .env dosyasını yoksay (çevresel değişkenlerin saklandığı dosya)
+.env
+
+# Derleme ve geçici dosyaları yoksay
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE özgü dosyaları ve klasörleri yoksay
+.idea/
